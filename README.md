@@ -14,7 +14,7 @@ si se queda bloqueado la primera bez es porque instala es servicio espaera un pa
 
 <h2>Futuro</h2>
 
-1-opciones de coniguracion
+1-opciones de coniguracion(inicio automatico,canvio de puertos...)
 2- modo cliente sencillo 
 3-mayor seguridada
 x-linux
